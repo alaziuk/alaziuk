@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A student of Automation and Robotics, my passion is C/C++ and embedded systems.</h3>
+<h3 align="center">A student of Automation and Robotics, my passion are C/C++ and embedded systems.</h3>
 
 - 🔭 I’m currently working on engineering diploma thesis (private for now)
 
