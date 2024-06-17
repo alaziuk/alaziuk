@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adamlaziuk@gmail.com**
 
-- ⚡ Fun fact **I can sit for 50 hours just to automate 5 min daily task (:**
+- ⚡ Fun fact **I can sit for 50 hours just to automate 5 min daily task &#x1F643**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
