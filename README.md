@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A student of Automation and Robotics, my passion are C/C++ and embedded systems.</h3>
 
-- 🔭 I’m currently working on [autopilot behavior emulator](https://github.com/alaziuk/Autopilot-emulator) and [GUI to make it controlable](https://github.com/alaziuk/UART-Commuincator). Both are made in preparation for my engineering thesis - BLDC motor control with FOC (without hall sensors).
+- 🔭 I’m currently working on pendant with fluid simulator on board [hardware](https://github.com/alaziuk/fluid_simulator_hardware) and [fluid simulator for embedded](https://github.com/alaziuk/fluid_simulator_embedded). Both are still WIP, but it's getting there.
 
 - 🌱 I’m currently learning **C/C++ for embedded systems**
 
